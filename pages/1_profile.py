@@ -25,8 +25,8 @@ def show_profile():
 
     st.markdown("### Education")
     st.write("**B.Tech in AI and Data Science**")
-    st.write("*University/College Name, Nagpur*")
-    st.write("Expected Graduation: 20XX")
+    st.write("*RTMNU/YCCE, Nagpur*")
+    st.write("Expected Graduation: 2026")
 
     st.markdown("### Skills")
     skills = ["Python", "Data Science", "Machine Learning", "Streamlit", "Data Visualization"]
